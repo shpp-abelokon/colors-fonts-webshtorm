@@ -5,7 +5,7 @@ One Dark, Lidies Night 2, Relax You Eyes, Solarized Light (Alternate), One Dark 
 
 ### Option 1: Install using "Import Settings..."
 
-1. Go to `File | Import Settings...` and specify the `Color & Font WebShtorm` directory or the `One Dark.jar` file.
+1. Go to `File | Import Settings...` and specify the `colors-fonts-webshtorm` directory or the `One Dark.jar` file.
  Click `OK` in the dialog that appears.
 
 2. Restart IntelliJ IDEA
