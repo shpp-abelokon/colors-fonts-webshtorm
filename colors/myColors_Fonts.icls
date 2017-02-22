@@ -1,0 +1,40 @@
+<scheme name="myColors&amp;Fonts" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-02-17T16:05:18</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.4.0.0</property>
+    <property name="modified">2017-02-22T02:30:27</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <attributes>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="a78b55" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b309a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.STRING">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
